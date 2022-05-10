@@ -1,5 +1,4 @@
 # Este programa corresponde a una calculadora simple
-# Desarrollado para la clase de informatica.
 # Desarrollador: Luis Miguel Guerrero
 
 # Esta funcion agrega dos numeros
