@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 print("esta es una prueba miguel")
 =======
 print("esta es una prueba 4")
